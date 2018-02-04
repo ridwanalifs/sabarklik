@@ -1,0 +1,2 @@
+# sabarklik
+safelink
